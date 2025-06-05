@@ -1,4 +1,4 @@
-// mongodb+srv://alokkumarsingh8002583766:<db_password>@cluster0.fnyihjk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+// mongodb+srv://alokkumarsingh8002583766:<db_password>@cluster0.fnyihjk.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0
 
 //password =cLCmsJgwhZtoJPnA
 
